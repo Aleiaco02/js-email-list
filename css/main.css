@@ -1,0 +1,10 @@
+ul{
+    list-style-type: none;
+}
+
+.container-bottone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
